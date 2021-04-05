@@ -1,0 +1,50 @@
+h1 {
+    color: black;
+    text-align: center;
+    font: 160%;
+}
+
+p {
+    width: 365px;
+    height: 250px;
+    border: black;
+    border-width: 2px;
+    display: inline-block;
+    padding: 15px;
+}
+
+#p1 {
+    background-color: rgb(110, 112, 108);
+    font-size: 21px;
+}
+
+#p2 {
+    background-color: rgb(102, 98, 100);
+    font-size: 21px;
+}
+
+#p3 {
+    background-color: rgb(96, 100, 102);
+    font-size: 21px;
+}
+
+div1 {
+    background-color: rgb(182, 6, 123);
+    border: black;
+    border-width: 2px;
+    text-align: right;
+}
+
+div2 {
+    background-color: rgb(209, 46, 17);
+    border: black;
+    border-width: 2px;
+    text-align: right;
+}
+
+div3 {
+    background-color: rgb(209, 180, 15);
+    border: black;
+    border-width: 2px;
+    text-align: right;
+}
